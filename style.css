@@ -1,0 +1,44 @@
+#favsport {
+    background: linear-gradient(#4cc9f0 0%, #f72585 100%);
+    text-align: center;
+}
+
+#profile {
+    width: 400px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.menu {
+    position: fixed;
+    background: aliceblue;
+    width: 100%;
+    margin-top: 0;
+    top: 0px;
+    z-index: 10;
+}
+
+.links {
+    float: left;
+    color: crimson;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: dodgerblue;
+}
